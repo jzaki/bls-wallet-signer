@@ -1,3 +1,5 @@
+# Consolidated into mono-repo, [bls-wallet](https://github.com/jzaki/bls-wallet/)
+
 # BLS Wallet Signer
 
 Typescript module for signing, aggregating and verifying transactions using the bls signature scheme. Signed transactions are actioned in [bls-wallet-contracts](https://github.com/jzaki/bls-wallet-contracts).
